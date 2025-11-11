@@ -1,0 +1,22 @@
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#area-logotipo h1{
+	color: #0098FE;
+	text-align: center;
+	font-size: 4.5em;
+}
+
+#area-login a{
+	text-decoration: none;
+}
+
+.drop a:hover{
+	background: #E0A800;
+	color: white;
+}
+
+.barra{
+	text-decoration: none;
+}
